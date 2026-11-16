@@ -1,16 +1,24 @@
-## Hi there 👋
+# Akram Yakoob Ali Khan
 
-<!--
-**DevOpslucifer666/DevOpslucifer666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**DevOps Engineer & AI Developer** — Founder & Director, [Paramdrishti Private Limited](https://paramdrishti.com)
 
-Here are some ideas to get you started:
+I build AI products and the automation that ships them:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👁️ **EYE** — visual intelligence platform · [eye.paramdrishti.com](https://eye.paramdrishti.com)
+- 🧠 **BRAIN** — AI model gateway, 300+ models behind one API · [brain.paramdrishti.com](https://brain.paramdrishti.com)
+- ✋ **HAND** — autonomous AI agent · [hand.paramdrishti.com](https://hand.paramdrishti.com)
+- 🎬 **AI Video Factory** — automated pipeline: topic → research → script → ComfyUI generation → cloned-voice narration → edit → publish
+
+### Stack I run
+
+Docker · ComfyUI (SDXL / AnimateDiff / Wan / LTX) · F5-TTS voice cloning · Ollama · Groq · AWS (Bedrock) · Cloudflare · FFmpeg · Python · Node.js
+
+### Currently
+
+- Scaling Paramdrishti's EYE / BRAIN / HAND product line
+- Running a free-GPU inference pool (Colab + Kaggle T4s) for video generation
+- Open to collaborations on AI video automation and model gateways
+
+📫 support@paramdrishti.com · 🌐 [paramdrishti.com](https://www.paramdrishti.com) · Pune, India
+
+*One Intelligence. Infinite Possibilities.*
